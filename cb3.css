@@ -6,3 +6,6 @@
   color: rgb(214, 255, 98);
   text-align: center;
 }
+.vfrc-header {
+  display: none;
+}
