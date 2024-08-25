@@ -9,3 +9,7 @@
 .vfrc-header {
   display: none;
 }
+.vfrc-chat {
+  max-height: 400px; /* Adjust the height as needed */
+  overflow-y: auto;
+}
