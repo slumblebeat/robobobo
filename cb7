@@ -1,0 +1,11 @@
+.vfrc-header--title {
+  font-family: 'FK Screamer', sans-serif;
+  font-size: 32px;
+  font-variation-settings: "wght" 600;
+  line-height: 25.6px;
+  color: rgb(214, 255, 98);
+  text-align: center;
+}
+.vfrc-header {
+  display: none;
+}
